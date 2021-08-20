@@ -10,5 +10,5 @@ pip -r requirements.txt
 ```
 <h1> Data Files </h1>
 
-[The Chicago Landuse data] used in `cmap_vs_osm.ipynb`(https://datahub.cmap.illinois.gov/dataset/land-use-inventory-for-northeast-illinois-2015)
+[The Chicago Landuse data](https://datahub.cmap.illinois.gov/dataset/land-use-inventory-for-northeast-illinois-2015) used in `cmap_vs_osm.ipynb`
 
