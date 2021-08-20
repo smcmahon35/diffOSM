@@ -8,3 +8,7 @@ Link to shp file to test cmap data in the ChicagoLand Area: https://datahub.cmap
 ```
 pip -r requirements.txt
 ```
+<h1> Data Files </h1>
+
+The Chicago Landuse data used in `cmap_vs_osm.ipynb`
+
