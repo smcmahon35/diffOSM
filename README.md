@@ -3,8 +3,8 @@ This project focuses on using open street map data to locate points of interest 
 
 Link to shp file to test cmap data in the ChicagoLand Area: https://datahub.cmap.illinois.gov/dataset/land-use-inventory-for-northeast-illinois-2015
 
-Python Libraries Needed: pandas, geopandas, matplotlib, shapely, numpy, osmnx
 
+<h1> h1 heading</h1>
 ```
 pip -r requirements.txt
 ```
