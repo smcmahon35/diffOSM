@@ -1,7 +1,6 @@
 # diffOSM
 This project focuses on using open street map data to locate points of interest using a tag at any location. For example in this code I use open street map to find data of chicago and I use the tag = "school" to find all K-12 schools in the chicagoland area. I then use this data to create a grid/map of chicago highlighting the areas with the least/most schools. In this project I also compare data given from other shp files to the open street map data and compare the differences between the datasets.
 
-Link to shp file to test cmap data in the ChicagoLand Area: https://datahub.cmap.illinois.gov/dataset/land-use-inventory-for-northeast-illinois-2015
 
 <h1> Required Libraries</h1>
 
