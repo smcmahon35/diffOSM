@@ -45,7 +45,13 @@ tags = {'amenity': "restaurant"}
 
 <h1> Comparing CMAP data to OSM data </h1>
 
-The `cmap_vs_osm.ipynb` file is used to compare ChicagoLand Landuse data to the Open Street Map data of Chicago. In this file a grid is created for both of the datasets finding K-12 schools in the ChicagoLand area. The grids are the same size and cover the same area which allows for some good comparisons.
+The `cmap_vs_osm.ipynb` file is used to compare ChicagoLand Landuse data to the Open Street Map data of Chicago. In this file a grid is created for both of the datasets finding K-12 schools in the ChicagoLand area. The grids are the same size and cover the same area which allows for some good comparisons. The differences between both datasets are calculated by finding the absolute value of the difference between each grid cell in the dataset.
+
+<h3> Examples </h3>
+
+The first histogram shows the frequency of the differences between the two datasets.
+![image](https://user-images.githubusercontent.com/73620346/130306276-896b8099-4f04-4152-b7fa-e83828252250.png)
+
 
 
 
