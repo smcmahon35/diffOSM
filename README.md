@@ -36,5 +36,13 @@ tags = {'amenity': "school"}
 ```
 ![image](https://user-images.githubusercontent.com/73620346/130305383-62917667-589d-4004-9508-766f4f323680.png)
 
+Using `osmnx` to collect data and create a grid on where restaurants are located inside of Los Angeles
+```
+city = "Los Angeles"
+tags = {'amenity': "restaurant"}
+```
+![image](https://user-images.githubusercontent.com/73620346/130305837-18395b6b-2569-41e7-8883-d5a93c9751f6.png)
+
+
 
  
