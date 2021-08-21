@@ -14,16 +14,17 @@ pip -r requirements.txt
 <h1> Locating POI's </h1>
 
 The `locating_pois.ipynb` file is used to locate points of interest within a given city/town using open street map data
-In this file we can select what place/city we want to search `osmnx` data from by changing the `city` variable.
+In this file the `city` variable holds a string that selects what place/city is searched using `osmnx` data.
 ```
 city = "Chicago"
 ```
 The city variable currently holds the string `"Chicago"` but it can be changed to search any city.
 
-Once we select the area we want to search through we have to select the points of interest that we want to find within that area.
-To do this we have to change the `tags` variable.
+Once the `city` variable is set the next step is to change the `tags` variable to the desired point of interest that is going to be searched from the `city`
 ```
 tags = {'amenity': "school"}
 ```
 The tags variable currrently is used to find all schools within the given `city`. Some other options for what tags can be used are found [here](https://wiki.openstreetmap.org/wiki/Map_features)
+
+The 
  
