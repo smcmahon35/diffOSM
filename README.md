@@ -25,6 +25,8 @@ Once the `city` variable is set the next step is to change the `tags` variable t
 tags = {'amenity': "school"}
 ```
 The tags variable currrently is used to find all schools within the given `city`. Some other options for what tags can be used are found [here](https://wiki.openstreetmap.org/wiki/Map_features)
+Once the `city` variable and the `tags` variable is given the program then generates a grid of the `city` showing all the points of interest within that area.
 
-The 
+<h2> Examples </h2>
+
  
