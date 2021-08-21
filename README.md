@@ -54,6 +54,7 @@ The histogram below shows the frequency of the differences between the two datas
 
 
 The pie chart below shows the percentage of differences in each grid cell. So `%66.49` of the grid cells between the two datasets have a difference of 0.
+
 ![image](https://user-images.githubusercontent.com/73620346/130306346-887ff6f2-0fc2-4343-80f5-a7fd68eb979c.png)
 
 
