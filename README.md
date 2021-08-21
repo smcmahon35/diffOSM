@@ -14,5 +14,7 @@ pip -r requirements.txt
 <h1> Locating POI's </h1>
 
 The `locating_pois.ipynb` file is used to locate points of interest within a given city/town using open street map data
-
+In this file we can select what place/city we want to search `osmnx` data from by changing the `city` variable.
+`city = "Chicago"`
+The city variable currently holds the string `"Chicago"` but it can be changed to search any city.
  
