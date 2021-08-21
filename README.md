@@ -11,3 +11,7 @@ pip -r requirements.txt
 
 [The Chicago Landuse data](https://datahub.cmap.illinois.gov/dataset/land-use-inventory-for-northeast-illinois-2015) used in `cmap_vs_osm.ipynb`as a `.shp` file
 
+<h1> Locating POI's </h1>
+The `locating_pois.ipynb` file is used to locate points of interest within a given city/town using open street map data
+
+ 
