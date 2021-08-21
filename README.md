@@ -49,8 +49,13 @@ The `cmap_vs_osm.ipynb` file is used to compare ChicagoLand Landuse data to the 
 
 <h3> Examples </h3>
 
-The first histogram shows the frequency of the differences between the two datasets.
+The histogram below shows the frequency of the differences between the two datasets.
 ![image](https://user-images.githubusercontent.com/73620346/130306276-896b8099-4f04-4152-b7fa-e83828252250.png)
+
+
+The pie chart below shows the percentage of differences in each grid cell. So `%66.49` of the grid cells between the two datasets have a difference of 0.
+![image](https://user-images.githubusercontent.com/73620346/130306346-887ff6f2-0fc2-4343-80f5-a7fd68eb979c.png)
+
 
 
 
