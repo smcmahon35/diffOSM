@@ -28,6 +28,7 @@ The tags variable currrently is used to find all schools within the given `city`
 Once the `city` variable and the `tags` variable is given the program then generates a grid of the `city` showing all the points of interest within that area.
 
 <h3> Examples </h3>
+
 Using `osmnx` to collect data and create a grid on where K-12 schools are located inside of Chicago
 ```
 city = "Chicago"
